@@ -9,7 +9,7 @@
 
 .links{
     display: flex;
-    background-color: rgba(22, 22, 23, .8);
+    background-color: #000000e7;
     backdrop-filter: saturate(180%) blur(20px);
 }
 
@@ -18,7 +18,7 @@
     align-items: center;
     justify-content: center;
     width: 100%;
-    gap: 2%;
+    gap: 2.7%;
 }
 
 .link-1 a{
