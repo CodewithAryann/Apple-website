@@ -48,3 +48,10 @@
 a:hover .globalnav-image-regular svg path {
     fill: rgba(255, 255, 255, 1);
 }
+
+.iphone-15{
+ background-image: url('image-1.jpg');
+ background-size: cover; 
+ background-position: center; 
+ background-repeat: no-repeat;
+}
