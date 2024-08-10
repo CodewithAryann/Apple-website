@@ -55,3 +55,10 @@ a:hover .globalnav-image-regular svg path {
  background-position: center; 
  background-repeat: no-repeat;
 }
+
+.ipad-pro{
+    background-image: url('image-2.jpg');
+ background-size: cover; 
+ background-position: center; 
+ background-repeat: no-repeat;
+}
