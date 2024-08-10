@@ -2,7 +2,7 @@ const canvas = document.querySelector("canvas");
         const context = canvas.getContext("2d");
         const frame = {
             currentIndex: 0,
-            maxIndex: 693
+            maxIndex: 944
         };
         let imagesLoaded = 0;
         const images = [];
@@ -10,7 +10,7 @@ const canvas = document.querySelector("canvas");
         function preloadImages(){
 
             for ( var i=1 ; i<=frame.maxIndex; i++ ){
-                const ImageUrl = `./video-frames/frame_${i.toString().padStart(4, "0")}.jpeg`
+                const ImageUrl = `./images/frame_${i.toString().padStart(4, "0")}.jpeg`
                 const img = new Image();
                 img.src = ImageUrl;
                 img.onload = ()=> {
