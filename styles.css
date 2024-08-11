@@ -71,13 +71,13 @@ background-image: url('image-2.jpg');
 .iphone{
     background-image: url('image-3.jpg');
     background-size: cover; 
-    background-position: center 150px;
+    background-position: center 20px;
     background-repeat: no-repeat;
     
 }
 .macbook {
     background-image: url('image-4.jpg');
     background-size: cover;
-    background-position: center 200px; /* Adjust this value to move the image down */
+    background-position: center 100px; 
     background-repeat: no-repeat;
 }
