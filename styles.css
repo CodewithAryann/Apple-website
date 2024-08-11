@@ -81,3 +81,27 @@ background-image: url('image-2.jpg');
     background-repeat: no-repeat;
     background-size: 80vw;
 }
+.watch{
+    background-image: url('image-5.jpg');
+    background-size: cover; 
+    background-position: center 90px;
+    background-repeat: no-repeat;
+}
+.watch-img{
+    width: 30%;
+}
+.apple-ai{
+    width: 50%;
+}
+.ai{
+    background-image: url('image-6.jpg');
+    background-size: cover; 
+    background-position: center 70px;
+    background-repeat: no-repeat;
+}
+.mac{
+    background-image: url('image-7.jpg');
+    background-size: cover; 
+    background-position: center 70px;
+    background-repeat: no-repeat;
+}
