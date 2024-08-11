@@ -105,6 +105,33 @@ background-image: url('image-2.jpg');
     background-position: center 70px;
     background-repeat: no-repeat;
 }
+.trade-in{
+    background-image: url('image-8.jpg');
+    background-size: cover; 
+    background-position: center 70px;
+    background-repeat: no-repeat;
+}
 .trade{
     width: 30%;
 }
+
+swiper-container {
+    width: 100%;
+    height: 100%;
+  }
+
+  swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
