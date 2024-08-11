@@ -77,7 +77,7 @@ background-image: url('image-2.jpg');
 }
 .macbook {
     background-image: url('image-4.jpg');
-    background-size: cover;
-    background-position: center 100px; 
+    background-position: center 90px; 
     background-repeat: no-repeat;
+    background-size: 80vw;
 }
