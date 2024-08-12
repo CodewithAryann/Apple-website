@@ -135,4 +135,12 @@ swiper-container {
     height: 100%;
     object-fit: cover;
   }
+
+  footer li{
+    font-size: 12px;
+    line-height: 1.3333733333;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    color: #7f8383;
+  }
  
