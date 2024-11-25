@@ -143,4 +143,12 @@ swiper-container {
     letter-spacing: -0.01em;
     color: #7f8383;
   }
- 
+   
+
+      #hamburger-menu {
+          transform: translateY(-100%);
+          transition: transform 0.3s ease-in-out;
+      }
+      #hamburger-menu.open {
+          transform: translateY(0);
+      }
