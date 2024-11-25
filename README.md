@@ -1,6 +1,6 @@
 # Apple Website Clone
 
-This project is a replica of the Apple website, featuring a static frontend built with HTML, CSS, and Tailwind CSS, and a backend built using Node.js and MongoDB. The backend provides dynamic data handling and APIs for managing application functionality.
+This project is a Apple website, featuring a static frontend built with HTML, CSS, and Tailwind CSS, and a backend built using Node.js and MongoDB. The backend provides dynamic data handling and APIs for managing application functionality.
 
 ---
 
