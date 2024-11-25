@@ -81,6 +81,12 @@ background-image: url('image-2.jpg');
     background-repeat: no-repeat;
     background-size: 80vw;
 }
+@media (max-width: 768px) {
+    .macbook {
+        background-size: auto; 
+        background-position: center; 
+    }
+}
 .watch{
     background-image: url('image-5.jpg');
     background-size: cover; 
