@@ -81,20 +81,6 @@ background-image: url('image-2.jpg');
     background-repeat: no-repeat;
     background-size: 80vw;
 }
-@media (max-width: 768px) {
-    .macbook {
-        background-size: auto; 
-        background-position: center; 
-    }
-    /* .links{
-        padding-left: 35px;
-        padding-right: 33px;
-    } */
-    .link-1{
-        gap: 110%;
-        margin-left: -23px;
-    }
-}
 .watch{
     background-image: url('image-5.jpg');
     background-size: cover; 
@@ -166,3 +152,14 @@ swiper-container {
       #hamburger-menu.open {
           transform: translateY(0);
       }
+
+      @media (max-width: 768px) {
+        .macbook {
+            background-size: auto; 
+            background-position: center; 
+        }
+        .link-1{
+            gap: 110%;
+            margin-left: -23px;
+        }
+    }
