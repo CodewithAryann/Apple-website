@@ -19,6 +19,8 @@
     justify-content: center;
     width: 100%;
     gap: 2.7%;
+    padding-top: 10px;
+    padding-bottom: 5px;
 }
 
 .link-1 a{
@@ -31,7 +33,7 @@
     transition: fill 1s ease;
 }
 
-.link-1 :nth-child(1){
+/* .link-1 :nth-child(1){
     margin-top: 3px;
 }
 .link-1 :nth-child(12){
@@ -39,7 +41,7 @@
 }
 .link-1 :nth-child(13){
     margin-top: 3px;
-}
+} */
 
 .globalnav-image-regular svg path {
     transition: fill 0.3s ease; 
